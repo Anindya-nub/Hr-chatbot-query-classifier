@@ -71,20 +71,6 @@ The LSTM model architecture includes:
 - **Training Needs Assessment**: Classify queries related to training and development, helping HR identify areas for employee growth.
 - **Performance Management**: Streamline performance-related inquiries, providing managers with insights into employee concerns.
 
-## Code Explanation
-
-### 1. Imports and Setup
-
-```python
-import numpy as np
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import LSTM, Dense, Embedding
-from tensorflow.keras.optimizers import Adam
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
-from sklearn.model_selection import train_test_split
-
-
 ## Installation
 
 To set up the project, follow these steps:
