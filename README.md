@@ -2,20 +2,6 @@
 
 This project is an HR-based classifier developed during my internship at Jio Platforms Ltd. It leverages Long Short-Term Memory (LSTM) neural networks with an Adam optimizer to classify HR-related queries into specific categories, providing an automated solution for HR management.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Project Objectives](#project-objectives)
-- [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Overall Working](#overall-working)
-- [Use Cases](#use-cases)
-- [Installation](#installation)
-- [Results](#results)
-- [Conclusions](#conclusions)
-- [License](#license)
-
 ## Introduction
 
 In the modern workplace, HR departments face the challenge of managing a high volume of inquiries from employees regarding various topics. This project aims to automate the classification of these queries, improving response time and allowing HR professionals to focus on more strategic tasks. 
